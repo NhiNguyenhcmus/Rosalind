@@ -1,3 +1,8 @@
+"""
+Problem: Consensus and Profile (https://rosalind.info/problems/cons/)
+Version: Jan. 12, 2023
+"""
+
 fi = open('rosalind_cons.txt','r')
 ip = fi.read()
 dive0 = ip.split("\n>")
@@ -47,6 +52,11 @@ print("A:", A)
 print("C:", C)
 print("G:", G)
 print("T:", T)
+
+"""
+Problem: Consensus and Profile (https://rosalind.info/problems/cons/)
+Version: Sept. 16, 2024
+"""
 
 
 		
