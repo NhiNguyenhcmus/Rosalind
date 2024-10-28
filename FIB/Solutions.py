@@ -15,3 +15,8 @@ for i in range(2,n):
 		num[i] = num[i-1] + k*num[i-2]
 print(num[-1])
 
+"""
+Problem: Rabbits and Recurrence Relations
+Version: 
+"""
+
